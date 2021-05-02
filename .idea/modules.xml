@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bluetooth-low-energy-android-project-zero-sample-code.iml" filepath="$PROJECT_DIR$/.idea/modules/bluetooth-low-energy-android-project-zero-sample-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bluetooth-low-energy-android-project-zero-sample-code.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bluetooth-low-energy-android-project-zero-sample-code.app.iml" />
+    </modules>
+  </component>
+</project>
